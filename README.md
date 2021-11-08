@@ -1,1 +1,1 @@
-# computer-networking-project
+# Smart Voting Centre (ComputerNetworking_project)
